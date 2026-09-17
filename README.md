@@ -230,3 +230,6 @@ CYPE is offered as a complete free version for Windows, providing all features a
 ---
 
 Ready to enhance your architecture and engineering projects? **Download CYPE now and experience the difference!**
+
+---
+**Last updated:** 2026-09-17 23:16:16 UTC
