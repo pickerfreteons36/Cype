@@ -232,4 +232,4 @@ CYPE is offered as a complete free version for Windows, providing all features a
 Ready to enhance your architecture and engineering projects? **Download CYPE now and experience the difference!**
 
 ---
-**Last updated:** 2026-10-31 22:05:38 UTC
+**Last updated:** 2026-11-01 01:40:10 UTC
